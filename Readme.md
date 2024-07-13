@@ -1,2 +1,2 @@
-#Shoe Love
-## The Ultimate shoe gallery
+##Shoe Love
+# The Ultimate shoe gallery
